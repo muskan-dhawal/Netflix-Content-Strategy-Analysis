@@ -1,5 +1,5 @@
 # Netflix-Content-Strategy-Analysis
-Exploratory Data Analysis of Netflix content to understand content strategy, ratings, and regional trends using Pyhton
+Exploratory Data Analysis of Netflix content to understand content strategy, ratings, and regional trends using Python
 ## Overview
 This project analyzes Netflix’s content catalog using Python to identify trends in content type, country-wise distribution, ratings, genres, and movie durations.
 
